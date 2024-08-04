@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## used links
+https://github.com/hammerjs/hammer.js/tree/master/
+https://hammerjs.github.io/recognizer-pinch/
+https://hammerjs.github.io/jsdoc/PinchRecognizer.html#getTouchAction
+https://codepen.io/jtangelder/pen/jOZezm
+https://codepen.io/jtangelder/pen/jOZezm
+https://codepen.io/jtangelder/pen/XWZxGP
